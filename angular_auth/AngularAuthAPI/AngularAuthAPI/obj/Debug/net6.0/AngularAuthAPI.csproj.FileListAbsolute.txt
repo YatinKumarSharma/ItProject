@@ -1,0 +1,134 @@
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\appsettings.json
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.exe
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.deps.json
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.runtimeconfig.json
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.pdb
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Humanizer.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.AssemblyReference.cache
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.AssemblyInfoInputs.cache
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.AssemblyInfo.cs
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.CoreCompileInputs.cache
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.AngularAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularAuthAPI.props
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularAuthAPI.props
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularAuthAPI.props
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\scopedcss\bundle\AngularAuthAPI.styles.css
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.CopyComplete
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\refint\AngularAuthAPI.dll
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.pdb
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.genruntimeconfig.cache
+D:\aspservicebased\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\ref\AngularAuthAPI.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\appsettings.json
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.exe
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.deps.json
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.runtimeconfig.json
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.pdb
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Humanizer.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.AssemblyReference.cache
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.AssemblyInfoInputs.cache
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.AssemblyInfo.cs
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.CoreCompileInputs.cache
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.AngularAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularAuthAPI.props
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularAuthAPI.props
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularAuthAPI.props
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\scopedcss\bundle\AngularAuthAPI.styles.css
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.CopyComplete
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\refint\AngularAuthAPI.dll
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.pdb
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.genruntimeconfig.cache
+D:\aspservicebased - Copy\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\ref\AngularAuthAPI.dll

@@ -1,0 +1,674 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Abersoft</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+    integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
+    integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
+    crossorigin="anonymous"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
+    integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
+    crossorigin="anonymous">
+  </script>
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-lg bg-body-tertiary fs-5">
+    <div class="container-fluid">
+        <img src="../../assets/Abersoft.png" alt="Abersoft" width="125" height="125" />
+        <!-- <p style="margin-left: 10px; font-size: larger; color: #E74860;font-weight:900;">Abersoft</p> -->
+
+        
+        <div class="collapse navbar-collapse  " id="navbarSupportedContent">
+          
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 mx-auto ms-auto spaceUl "
+                style="font-size: 22px; font-weight: 650;">
+                
+                <li class="nav-item mx-5">
+                    <a class="nav-link" routerLink="/contact">Contact</a>
+                </li>
+                <!-- <li class="nav-item">
+                    <a class="nav-link" routerLink="#">Store</a>
+                </li> -->
+            </ul>
+
+            <button  (click)="logout()" class="btn btn-danger">Logout</button>
+            
+        </div>
+    </div>
+</nav>
+  <div class="main-wrapper">
+
+    
+
+
+    <!-- Cards -->
+
+    <section class="container bg-light py-5 ">
+      <div class="mb-2-9 mb-lg-6 position-relative text-center wow fadeInUp" data-wow-delay="200ms">
+        <span
+          class="text-primary text-uppercase small letter-spacing-4 d-block mb-2 fw-normal text-danger fs-5">Services.</span>
+        <h2
+          class="display-22 display-sm-18 display-md-16 display-lg-14 display-xl-10 mb-lg-1-6 fs-1 fw-bolder text-dark"
+          style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">We provide the best <span
+            class="title-sm">services.</span></h2>
+      </div>
+      <div id="carouselExampleFade my-5" class="carousel slide carousel-fade" data-bs-ride="carousel">
+        <div class="carousel-inner my-5">
+          <div class="carousel-item active" data-bs-interval="2000">
+            <div class="cards-wrapper">
+              <div class="card">
+                <img src="../../assets/appdev.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Application Development</h5>
+                  <p class="card-text">Developers at Abersoft are certified with on-demand experience on various
+                    development
+                    technologies </p>
+                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+              </div>
+              <div class="card d-none d-md-block">
+                <img src="../../assets/data and ai.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Data and AI Innovation</h5>
+                  <p class="card-text">Data and Artificial Intelligence centers around amplifying the unique cognitive
+                    ingenuity of humans</p>
+                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+              </div>
+              <div class="card d-none d-md-block">
+                <img src="../../assets/security.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Security</h5>
+                  <p class="card-text">Companies transform digital and utilizing the trending opportunities presented by
+                    cloud and Companies</p>
+                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item" data-bs-interval="2000">
+            <div class="cards-wrapper">
+              <div class="card">
+                <img src="../../assets/cloud.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Cloud</h5>
+                  <p class="card-text">The path to unprecedented growth goes through the cloud, helping customers
+                    connect people</p>
+                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+              </div>
+              <div class="card d-none d-md-block">
+                <img src="../../assets/AbersoftSilverPartner.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                    card's
+                    content.</p>
+                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+              </div>
+              <div class="card d-none d-md-block">
+                <img src="../../assets/AbersoftHiring.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                    card's
+                    content.</p>
+                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item" data-bs-interval="2000">
+            <div class="cards-wrapper">
+              <div class="card">
+                <img src="../../assets/AbRedFinal1.JPEG" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                    card's
+                    content.</p>
+                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+              </div>
+              <div class="card d-none d-md-block">
+                <img src="../../assets/AbRedFinal1.JPEG" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                    card's
+                    content.</p>
+                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+              </div>
+              <div class="card d-none d-md-block">
+                <img src="../../assets/AbRedFinal.JPEG" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                    card's
+                    content.</p>
+                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+    </section>
+
+    <!-- about -->
+
+    <div class="about-style-01 my-5">
+      <div class="container">
+        <div class="row align-items-xl-center mt-n7">
+          <div class="col-lg-6 mt-7">
+            <div class="position-relative z-index-9">
+              <div class="row">
+                <div class="col-6 wow fadeInDown my-5" data-wow-delay="200ms">
+                  <div class="image-hover position-relative overflow-hidden">
+                    <img src="../../assets/AbersoftEmpower.png" height="500" class="my-5" alt="...">
+                  </div>
+                </div>
+                <div class="col-6 wow fadeInUp" data-wow-delay="400ms">
+                  <div class="image-hover position-relative overflow-hidden">
+                    <img src="../../assets/AbersoftOffice365.jpeg" height="450" alt="..." class="mt-1-9 mt-sm-10 my-5">
+                  </div>
+                </div>
+              </div>
+              <div class="sm-box-wrapper z-index-9 wow fadeIn" data-wow-delay="600ms">
+                <div class="inner-box">
+                  <span class="exp-no">58</span>
+                  <span class="exp-year">Years Of <br> Experience</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 mt-7 wow fadeIn px-5">
+            <div class="ps-lg-1-9 ps-xl-7">
+              <div class="mb-1-9 position-relative">
+                <span
+                  class="text-primary text-uppercase small letter-spacing-4 d-block  wow fadeInUp text-danger fw-bold px-3 py-5">About
+                  Us.</span>
+                <h2
+                  class="display-22 display-sm-18 display-md-16 display-lg-14 display-xl-10 mb-lg-1-6 wow fadeInUp fw-bolder"
+                  data-wow-delay="200ms" style="font-size: 45px;">Digital agency doing <span class="title-sm "
+                    style="font-size: 40px;">creative works.</span></h2>
+              </div>
+              <p class="fst-italic fw-bolder w-90 wow fadeInUp pt-3" data-wow-delay="200ms">We are committed to
+                providing
+                our customers with exceptional service while offering our employees the best training.</p>
+              <p class="mb-1-9 border-bottom pb-1-9 wow fadeInUp" data-wow-delay="300ms">Team is a diverse network of
+                consultants and industry professionals with a global mindset and a collaborative culture. We work to
+                understand your issues and are driven to ask better questions.</p>
+              <div class="d-sm-flex align-items-center">
+                <div class="flex-shrink-0 mb-4 mb-sm-0">
+                  <img src="../../assets/img/avatars/avatar-01.jpg" class="w-55px rounded-circle wow fadeInRight"
+                    data-wow-delay="100ms" alt="...">
+                  <img src="../../assets/img/avatars/avatar-02.jpg" class="w-55px rounded-circle img1 wow fadeInRight"
+                    data-wow-delay="200ms" alt="...">
+                  <img src="../../assets/img/avatars/avatar-03.jpg" class="w-55px rounded-circle img2 wow fadeInRight"
+                    data-wow-delay="300ms" alt="...">
+                  <span class="bg-primary about-icon text-white wow fadeInRight" data-wow-delay="400ms"><i
+                      class="fa-solid fa-phone"></i></span>
+                </div>
+                <div class="flex-grow-1 ms-sm-4 wow fadeIn " data-wow-delay="600ms">
+                  <h4 class="mb-0 h5">Over 48,500 people work for us in more than 75 countries.</h4>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- <div class="position-absolute top-5 left-n5 ani-top-bottom d-none d-md-block">
+      <img src="img/content/shape-05.png" alt="...">
+    </div> -->
+    </div>
+
+    <!-- What we do -->
+
+    <section class="bg-secondary py-5">
+      <div class="container position-relative z-index-9">
+        <div class="mb-2-9 mb-lg-6 position-relative text-center wow fadeInUp" data-wow-delay="200ms">
+          <span class="text-primary text-uppercase small letter-spacing-4 d-block mb-2 font-weight-600">What We
+            Do.</span>
+          <h2
+            class="display-22 display-sm-18 display-md-16 display-lg-14 display-xl-10 text-white mb-lg-1-6 fs-1 fw-bold">
+            Services that help <span class="title-sm">you grow.</span></h2>
+        </div>
+        <div class="row g-5 mt-n1-9 py-5">
+          <div class="col-md-6 col-lg-4 mt-1-9 wow fadeInUp" data-wow-delay="400ms">
+            <div class="card card-style06 border-0">
+              <div class="card-front">
+                <div class="card-inner">
+                  <div class="mb-4 border-bottom pb-4 border-color-light-white ">
+                    <img src="../../assets/img/icons/18.png" alt="..." class="mb-4">
+                    <h3 class="h5 mb-0 text-white"><a href="services.html">Web Development</a></h3>
+                  </div>
+                  <a href="#!" class="text-white">Read More<i class="fa-solid fa-arrow-right ps-3 text-primary"></i></a>
+                </div>
+                <div class="card-body pe-4 bg-primary">
+                  <p class="text-white display-27 lh-base">We focus on the best practices for it solutions and services
+                  </p>
+                  <a href="services.html" class="text-white">Read More<i
+                      class="fa-solid fa-arrow-right ps-3 text-white"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 mt-1-9 wow fadeInUp" data-wow-delay="600ms">
+            <div class="card card-style06 border-0">
+              <div class="card-front">
+                <div class="card-inner">
+                  <div class="mb-4 border-bottom pb-4 border-color-light-white">
+                    <img src="../../assets/img/icons/19.png" alt="..." class="mb-4">
+                    <h3 class="h5 mb-0 text-white"><a href="services.html">Branding Services4</a></h3>
+                  </div>
+                  <a href="#!" class="text-white">Read More<i class="fa-solid fa-arrow-right ps-3 text-primary"></i></a>
+                </div>
+                <div class="card-body pe-4 bg-primary">
+                  <p class="text-white display-27 lh-base">We focus on the best practices for it solutions and services
+                  </p>
+                  <a href="services.html" class="text-white">Read More<i
+                      class="fa-solid fa-arrow-right ps-3 text-white"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 mt-1-9 wow fadeInUp" data-wow-delay="800ms">
+            <div class="card card-style06 border-0">
+              <div class="card-front">
+                <div class="card-inner">
+                  <div class="mb-4 border-bottom pb-4 border-color-light-white">
+                    <img src="../../assets/img/icons/20.png" alt="..." class="mb-4">
+                    <h3 class="h5 mb-0 text-white"><a href="services.html">Digital Marketing</a></h3>
+                  </div>
+                  <a href="#!" class="text-white">Read More<i class="fa-solid fa-arrow-right ps-3 text-primary"></i></a>
+                </div>
+                <div class="card-body pe-4 bg-primary">
+                  <p class="text-white display-27 lh-base">We focus on the best practices for it solutions and services
+                  </p>
+                  <a href="services.html" class="text-white">Read More<i
+                      class="fa-solid fa-arrow-right ps-3 text-white"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="position-absolute top-0 left-0 opacity2 shape-img-one">
+        <!-- <img src="img/bg/bg-05.png" alt="..."> -->
+      </div>
+    </section>
+
+    <!-- MISSION & VISION
+        ================================================== -->
+    <section class="clients-style3 py-5">
+      <div class="container position-relative z-index-9">
+        <div class="row align-items-center mt-n5">
+          <div class="col-lg-6 mt-5">
+            <div class="position-relative z-index-9">
+              <div class="row">
+                <div class="col-6 wow fadeInDown my-5" data-wow-delay="200ms">
+                  <div class="image-hover position-relative overflow-hidden">
+                    <img src="../../assets/AbersoftEmpower.png" height="500" class="my-5" alt="...">
+                  </div>
+                </div>
+                <div class="col-6 wow fadeInUp" data-wow-delay="400ms">
+                  <div class="image-hover position-relative overflow-hidden">
+                    <img src="../../assets/AbersoftOffice365.jpeg" height="450" alt="..." class="mt-1-9 mt-sm-10 my-5">
+                  </div>
+                </div>
+              </div>
+              <div class="sm-box-wrapper z-index-9 wow fadeIn " data-wow-delay="600ms">
+                <div class="inner-box">
+                  <h1 class="h1 mb-0 text-white ">Vision & Mission</h1>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 mt-5 wow fadeIn" style="padding-left: 90px;" data-wow-delay="400ms">
+            <div class="ps-lg-6 ps-xl-12 ">
+              <div class="mb-1-9 position-relative">
+                <span
+                  class="text-primary text-uppercase small letter-spacing-4 d-block mb-2 font-weight-600 wow fadeInUp fs-5 px-5">Mission
+                  & Vision.</span>
+                <h2
+                  class="display-22 display-sm-18 display-md-16 display-lg-14 display-xl-10 mb-lg-1-6 wow fadeInUp fs-1"
+                  data-wow-delay="200ms">We help to achieve <span class="title-sm">mutual goals.</span></h2>
+              </div>
+              <p class="mb-1-9 wow fadeInUp" data-wow-delay="200ms">Our Mission is to empower and support companies to achieve goals by providing necessary tools, products and skill set. Be a Cloud services company using the power  of technology to build better futures for our customers, colleagues, environment and communities, helping our customers deliver business impact.</p>
+              <div class="progress-style1 mb-2-9">
+                <div class="progress-text">
+                  <div class="row">
+                    <div class="col-6 fw-bold">Business Analytics</div>
+                    <div class="col-6 text-end">80%</div>
+                  </div>
+                </div>
+                <div class="custom-progress progress rounded-3 mb-4">
+                  <div class="animated custom-bar progress-bar slideInLeft" style="width:80%" aria-valuemax="100"
+                    aria-valuemin="0" aria-valuenow="10" role="progressbar"></div>
+                </div>
+                <div class="progress-text">
+                  <div class="row">
+                    <div class="col-6 fw-bold">Marketing Research</div>
+                    <div class="col-6 text-end">75%</div>
+                  </div>
+                </div>
+                <div class="custom-progress progress rounded-3">
+                  <div class="animated custom-bar progress-bar slideInLeft" style="width:75%" aria-valuemax="100"
+                    aria-valuemin="0" aria-valuenow="10" role="progressbar"></div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonial -->
+
+
+
+    <div class="testimonial-area py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="section-header text-center">
+              <h4>Testimonials</h4>
+              <h2 class="py-5">What Clients Says</h2>
+
+            </div>
+          </div>
+          <div class="col-sm-12">
+            <div class="carousel slide" data-bs-ride="true" id="carouselExampleIndicators">
+              <div class="carousel-indicators">
+                <button aria-label="Slide 1" class="active" data-bs-slide-to="0"
+                  data-bs-target="#carouselExampleIndicators" type="button"></button> <button aria-label="Slide 2"
+                  data-bs-slide-to="1" data-bs-target="#carouselExampleIndicators" type="button"></button> <button
+                  aria-label="Slide 3" data-bs-slide-to="2" data-bs-target="#carouselExampleIndicators"
+                  type="button"></button>
+              </div>
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div class="icon-area">
+                    <i class="fa fa-comments"></i>
+                  </div>
+                  <div class="content text-center">
+                    <p class="text-danger fs fs-4 fw-bold">Man, this thing is getting better and better as I learn more
+                      about it. We were treated like royalty. IT solution should be nominated for service of the year. I
+                      made back the purchase price in just 48 hours!</p>
+                    <div class="person"><img alt="" src=""></div>
+                    <h5>David Jones</h5>
+                    <h6>Web Developer</h6>
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div class="icon-area">
+                    <i class="fa fa-comments"></i>
+                  </div>
+                  <div class="content text-center">
+                    <p class="text-danger fs fs-4 fw-bold">It's the perfect solution for our business. Just what I was
+                      looking for. We were treated like royalty. Absolutely wonderful! It really saves me time and
+                      effort.
+                      business is exactly what our business has been lacking.</p>
+                    <div class="person"><img alt="" src=""></div>
+                    <h5>Martin Thomas</h5>
+                    <h6>Graphics Designer</h6>
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div class="icon-area">
+                    <i class="fa fa-comments"></i>
+                  </div>
+                  <div class="content text-center">
+                    <p class="text-danger fs fs-4 fw-bold">It's the perfect solution for our business. Just what I was
+                      looking for. We were treated like royalty. Absolutely wonderful! It really saves me time and
+                      effort.
+                      business is exactly what our business has been lacking.</p>
+                    <div class="person"><img alt="" src=""></div>
+                    <h5>Luke Jobs</h5>
+                    <h6>UI/UX Designer</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Teams -->
+
+    <section>
+      <div class="container py-5">
+        <div class="mb-2-9 mb-lg-6 position-relative text-center wow fadeInUp py-3" data-wow-delay="200ms">
+          <span class="text-primary text-uppercase small letter-spacing-4 d-block mb-2 font-weight-600 fs-2">Our
+            Team.</span>
+          <h2 class="display-22 display-sm-18 display-md-16 display-lg-14 display-xl-10 mb-lg-1-6 fs-1">Meet our team
+            <span class="title-sm">members.</span>
+          </h2>
+        </div>
+        <div class="row gx-5 mt-n2-9 position-relative z-index-9">
+          <div class="col-md-6 col-xl-3 mt-2-9 wow fadeInUp" data-wow-delay="200ms">
+            <div class="card card-style07 rounded-0 border-0 primary-shadow my-5">
+              <img src="../../assets/img/team/team-01.jpg" alt="...">
+              <div class="card-body p-4 text-center position-relative">
+                <div class="text-end team-content">
+                  <h3 class="h5 mb-0">Hamish French</h3>
+                  <span class="display-30">Computer Scientist</span>
+                </div>
+                <div class="social-icons position-absolute bottom-0 left-0">
+                  <span class="icon"><i class="fas fa-share-alt"></i></span>
+                  <ul class="social-link1">
+                    <li><a href="#!" class="linkedin shadow-none"><i class="fab fa-linkedin"></i></a></li>
+                    <li><a href="#!" class="instagram shadow-none"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#!" class="pinterest shadow-none"><i class="fab fa-pinterest"></i></a></li>
+                  </ul>
+                  <ul class="social-link2 d-flex">
+                    <li><a href="#!" class="youtube"><i class="fab fa-youtube"></i></a></li>
+                    <li><a href="#!" class="facebook"><i class="fab fa-facebook"></i></a></li>
+                    <li><a href="#!" class="twitter"><i class="fab fa-twitter"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-xl-3 mt-2-9 wow fadeInUp" data-wow-delay="350ms">
+            <div class="card card-style07 rounded-0 border-0 primary-shadow my-5">
+              <img src="../../assets/img/team/team-02.jpg" alt="...">
+              <div class="card-body p-4 text-center position-relative">
+                <div class="text-end team-content">
+                  <h3 class="h5 mb-0">Zara Matheson</h3>
+                  <span class="display-30">CEO</span>
+                </div>
+                <div class="social-icons position-absolute bottom-0 left-0">
+                  <span class="icon"><i class="fas fa-share-alt"></i></span>
+                  <ul class="social-link1">
+                    <li><a href="#!" class="linkedin shadow-none"><i class="fab fa-linkedin"></i></a></li>
+                    <li><a href="#!" class="instagram shadow-none"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#!" class="pinterest shadow-none"><i class="fab fa-pinterest"></i></a></li>
+                  </ul>
+                  <ul class="social-link2 d-flex">
+                    <li><a href="#!" class="youtube"><i class="fab fa-youtube"></i></a></li>
+                    <li><a href="#!" class="facebook"><i class="fab fa-facebook"></i></a></li>
+                    <li><a href="#!" class="twitter"><i class="fab fa-twitter"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-xl-3 mt-2-9 wow fadeInUp" data-wow-delay="500ms">
+            <div class="card card-style07 rounded-0 border-0 primary-shadow my-5">
+              <img src="../../assets/img/team/team-03.jpg" alt="...">
+              <div class="card-body p-4 text-center position-relative">
+                <div class="text-end team-content">
+                  <h3 class="h5 mb-0">Dylan Bonney</h3>
+                  <span class="display-30">Process Analyst</span>
+                </div>
+                <div class="social-icons position-absolute bottom-0 left-0">
+                  <span class="icon"><i class="fas fa-share-alt"></i></span>
+                  <ul class="social-link1">
+                    <li><a href="#!" class="linkedin shadow-none"><i class="fab fa-linkedin"></i></a></li>
+                    <li><a href="#!" class="instagram shadow-none"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#!" class="pinterest shadow-none"><i class="fab fa-pinterest"></i></a></li>
+                  </ul>
+                  <ul class="social-link2 d-flex">
+                    <li><a href="#!" class="youtube"><i class="fab fa-youtube"></i></a></li>
+                    <li><a href="#!" class="facebook"><i class="fab fa-facebook"></i></a></li>
+                    <li><a href="#!" class="twitter"><i class="fab fa-twitter"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-xl-3 mt-2-9 wow fadeInUp" data-wow-delay="650ms">
+            <div class="card card-style07 rounded-0 border-0 primary-shadow my-5">
+              <img src="../../assets/img/team/team-04.jpg" alt="...">
+              <div class="card-body p-4 text-center position-relative">
+                <div class="text-end team-content">
+                  <h3 class="h5 mb-0">Skye Finney</h3>
+                  <span class="display-30">Web Developer</span>
+                </div>
+                <div class="social-icons position-absolute bottom-0 left-0 ">
+                  <span class="icon"><i class="fas fa-share-alt "></i></span>
+                  <ul class="social-link1">
+                    <li><a href="#!" class="linkedin shadow-none"><i class="fab fa-linkedin"></i></a></li>
+                    <li><a href="#!" class="instagram shadow-none"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#!" class="pinterest shadow-none"><i class="fab fa-pinterest"></i></a></li>
+                  </ul>
+                  <ul class="social-link2 d-flex">
+                    <li><a href="#!" class="youtube"><i class="fab fa-youtube"></i></a></li>
+                    <li><a href="#!" class="facebook"><i class="fab fa-facebook"></i></a></li>
+                    <li><a href="#!" class="twitter"><i class="fab fa-twitter"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+    <!-- Blog -->
+
+    <section class="bg-light pt-15 pt-sm-14 pt-lg-18 pt-xl-20 py-5 my-5">
+      <div class="container">
+        <div class="mb-2-9 mb-lg-6 position-relative text-center">
+          <span
+            class="text-primary text-uppercase small letter-spacing-4 d-block mb-2 font-weight-600 wow fadeInUp fs-4">Our
+            Blog.</span>
+          <h2
+            class="display-22 display-sm-18 display-md-16 display-lg-14 display-xl-10 mb-lg-1-6 wow fadeInUp fs-1 fw-bolder text-info"
+            data-wow-delay="200ms">Read our latest <span class="title-sm text-danger">insights.</span></h2>
+        </div>
+        <div class="row g-xl-5 mt-n2-2 position-relative z-index-9 py-5">
+          <div class="col-md-6 col-lg-4 mt-2-2 wow fadeInUp" data-wow-delay="300ms">
+            <article class="card card-style-04 h-100 rounded-0">
+              <div class="blog-img position-relative overflow-hidden">
+                <img src="../../assets/img/blog/blog-01.jpg" alt="...">
+                <div class="card-list">
+                  <a href="#!">Solutions</a>
+                </div>
+              </div>
+              <div class="card-body p-1-6 p-sm-1-9">
+                <span class="text-primary d-block mb-2 font-weight-600">June 01, 2022</span>
+                <h3 class="h4 mb-0"><a href="blog-details.html" class="fw-bold">10 reliable sources to learn about IT
+                    solution.</a></h3>
+              </div>
+              <div
+                class="d-flex fw-bold border-top px-1-6 px-sm-1-9 py-3 border-color-light-black justify-content-between">
+                <a href="blog-details.html">Read more</a>
+                <a href="blog-details.html"><i class="ti-arrow-right"></i></a>
+              </div>
+            </article>
+          </div>
+          <div class="col-md-6 col-lg-4 mt-2-2 wow fadeInUp" data-wow-delay="450ms">
+            <article class="card card-style-04 h-100 rounded-0">
+              <div class="blog-img position-relative overflow-hidden">
+                <img src="../../assets/img/blog/blog-02.jpg" alt="...">
+                <div class="card-list">
+                  <a href="#!">Marketing</a>
+                </div>
+              </div>
+              <div class="card-body p-1-6 p-sm-1-9">
+                <span class="text-primary d-block mb-2 font-weight-600">May 29, 2022</span>
+                <h3 class="h4 mb-0"><a href="blog-details.html" class="fw-bold">How digital marketing can increase your
+                    profit!</a></h3>
+              </div>
+              <div
+                class="d-flex fw-bold border-top px-1-6 px-sm-1-9 py-3 border-color-light-black justify-content-between">
+                <a href="blog-details.html">Read more</a>
+                <a href="blog-details.html"><i class="ti-arrow-right"></i></a>
+              </div>
+            </article>
+          </div>
+          <div class="col-md-6 col-lg-4 mt-2-2 wow fadeInUp" data-wow-delay="600ms">
+            <article class="card card-style-04 h-100 rounded-0">
+              <div class="blog-img position-relative overflow-hidden">
+                <img src="../../assets/img/blog/blog-03.jpg" alt="...">
+                <div class="card-list">
+                  <a href="#!">Development</a>
+                </div>
+              </div>
+              <div class="card-body p-1-6 p-sm-1-9">
+                <span class="text-primary d-block mb-2 font-weight-600">May 25, 2022</span>
+                <h3 class="h4 mb-0"><a href="blog-details.html" class="fw-bold">Simple guidance for you in web
+                    development.</a></h3>
+              </div>
+              <div
+                class="d-flex fw-bold border-top px-1-6 px-sm-1-9 py-3 border-color-light-black justify-content-between">
+                <a href="blog-details.html">Read more</a>
+                <a href="blog-details.html"><i class="ti-arrow-right"></i></a>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+      <div class="position-absolute bottom-0 right-n5 ani-left-right d-none d-lg-block">
+        <img src="img/content/shape-10.png" alt="...">
+      </div>
+    </section>
+
+    
+
+
+
+  </div>
+
+
+  
+
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js">
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js">
+  </script>
+  
+</body>
+
+</html>
+
+<router-outlet></router-outlet>
